@@ -1,3 +1,4 @@
+[![Mini-SIEM Tests](https://github.com/christina2323/Mini-SIEM/actions/workflows/python-app.yml/badge.svg)](https://github.com/christina2323/Mini-SIEM/actions/workflows/python-app.yml)
 # Mini SIEM - Log Monitoring and Threat Detection System
 
 A simplified Security Information and Event Management (SIEM) system in Python
