@@ -98,3 +98,17 @@ normalize -> correlate -> alert -> visualize. Building it explains how those too
 ## 11. Conclusion
 The Mini SIEM shows how raw logs become actionable security intelligence through
 normalization, time-window correlation and ATT&CK-mapped alerting.
+---
+
+## 📊 SIEM Dashboard Screenshots
+
+The following screenshots demonstrate the Mini-SIEM dashboard, generated alerts, and threat detection results.
+
+### Screenshot 1
+![SIEM Dashboard 1](screenshots/Screenshot%202026-11-14%20053337.png)
+
+### Screenshot 2
+![SIEM Dashboard 2](screenshots/Screenshot%202026-11-14%20053351.png)
+
+### Screenshot 3
+![SIEM Dashboard 3](screenshots/Screenshot%202026-11-14%20053402.png)
